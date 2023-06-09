@@ -11,7 +11,7 @@ public class Application {
 //		LocalDate date=LocalDate.now();
 //		System.out.println(date);
 		
-		List<Subject> subjects=Arrays.asList(new Subject("1","pps","1","cse"),
+		List<Subject> subjectss=Arrays.asList(new Subject("1","pps","1","cse"),
 				new Subject("2","m1","1","cse"),
 				new Subject("3","data structures","2","cse"),
 				new Subject("4","bee","1","eee"),

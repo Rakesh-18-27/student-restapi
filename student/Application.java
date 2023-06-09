@@ -28,7 +28,7 @@ public class Application {
 				);
 		Map<String,Boolean> attendence1= new HashMap<String, Boolean>() {{
 		    put("2023-06-07", true);
-		    put("2023-06-06", true);
+		    put("2023-06-04", true);
 		    put("2023-06-05", false);
 		}};
 		
